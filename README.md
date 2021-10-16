@@ -12,3 +12,5 @@ In this project, I applied what i learned from the foundation path which is:
   -  links and images
 - CSS
 - CSS Flexbox
+
+A live demo of the project is found at https://abdelrahman-gado.github.io/landing-page/
